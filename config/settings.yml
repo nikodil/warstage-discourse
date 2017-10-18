@@ -1,0 +1,7 @@
+plugins:
+  warstage_enabled:
+    default: true
+  warstage_origin:
+    default: ''
+  warstage_domains:
+    default: ''

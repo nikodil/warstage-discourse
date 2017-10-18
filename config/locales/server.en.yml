@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    warstage_enabled: "Enable the warstage plugin"
+    warstage_origin: "warstage origin"
+    warstage_domains: "warstage domains"
