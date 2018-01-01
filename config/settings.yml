@@ -1,7 +1,5 @@
 plugins:
   warstage_enabled:
     default: true
-  warstage_origin:
-    default: ''
-  warstage_domains:
+  warstage_apikey:
     default: ''
